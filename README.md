@@ -17,7 +17,7 @@ sudo apt install mariadb-client-core-10.1
 ```
 ## Get Directory location 
 ```
-cd CNA350
+cd CNA350-maxscale
 cd maxscale
 ls (This is to make sure that you are in the righ location with you own file such as, docker-compose.yml)
 ```
